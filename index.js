@@ -1,8 +1,8 @@
 var youngMarketConfig = {    
     logLevel: "warning",
     matcherAddress: "https://matcher.youngmarket.com",
-    networkByte: "Y".charCodeAt(0),
-    nodeAddress: "https://nodes.youngmarket.com",
+    networkByte: "A".charCodeAt(0),
+    nodeAddress: "https://node.youngmarket.com",
     requestLimit: 1000,
     requestOffset: 0,
     timeDiff: 0
